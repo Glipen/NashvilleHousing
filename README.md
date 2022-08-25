@@ -1,2 +1,2 @@
 # NashvilleHousing
-Analyse des prix de vente des maison/appartement à Nashville
+Analyse des prix de vente des maisons/appartements à Nashville.
